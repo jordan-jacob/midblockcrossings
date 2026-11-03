@@ -1,0 +1,12 @@
+[    3s] 4,822 parcels, 5,559 dwelling units
+[    8s] network: 12,001 nodes, 13,284 edges, 223 blocks
+Overpass attempt 1 failed: HTTP Error 502: Bad Gateway
+Overpass attempt 2 failed: HTTP Error 504: Gateway Timeout
+Overpass attempt 3 failed: HTTP Error 502: Bad Gateway
+Overpass attempt 4 failed: The read operation timed out
+[  370s] 8,690 buildings, 71 water features
+[  372s] 4,345 origin parcels, 273 destinations
+[  409s] blocked: 16,405 by buildings, 72 by ponds, 180 need a footbridge
+[  409s] 22,396 raw candidates -> 386 distinct
+[  424s] scored 356 candidates under 6 policies
+[  465s] done -> C:\Users\jacob\Documents\midblocks\outputs\madison
